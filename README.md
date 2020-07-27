@@ -13,9 +13,9 @@ Then, run `train.py` for training
 
 
 ### Requirements
-torch == 1.1.0
-transformers == 2.3.0
-gluonnlp == 0.8.1
+torch == 1.1.0  
+transformers == 2.3.0  
+gluonnlp == 0.8.1  
 tensorflow == 2.0.0 (for `tensorflow.keras.preprocessing.sequence` only)
 
 ### Result
